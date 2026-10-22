@@ -218,21 +218,78 @@ int main()
     //     i = i + 1;
     // }
 
+    //     int n;
+    //     cout << "Enter the number: " << endl;
+    //     cin >> n;
+    //     int i = 1;
+    //     while (i <= n)
+    //     {
+    //         int j = 1;
+    //         char ch;
+    //         while (j <= i)
+    //         {
+    //             char ch = 'A' + i + 1;
+    //             cout << ch << " ";
+    //             j = j + 1;
+    //         }
+    //         cout << endl;
+    //         i = i + 1;
+    //     }
+    // }
+
+    // int n;
+    // cout << "Enter the value of n: ";
+    // cin >> n;
+    // int row = 1;
+    // while (row <= n)
+    // {
+    //     int col = 1;
+    //     while (col <= row)
+    //     {
+    //         cout << "*";
+    //         col = col + 1;
+    //     }
+    //     cout << endl;
+    //     row = row + 1;
+    // }
+
+    // int n;
+    // cout << "Enter the value of N:";
+    // cin >> n;
+    // int i = 1;
+    // while (i <= n)
+    // {
+    //     int j = 1;
+    //     while (j <= i)
+    //     {
+    //         cout << i;
+    //         j = j + 1;
+    //     }
+    //     cout << endl;
+    //     i = i + 1;
+    // }
+
+    // int n;
+    // cin >> n;
+    // int i = 1;
+    // int count = 1;
+    // while (i <= n)
+    // {
+    //     int j = 1;
+    //     while (j <= i)
+    //     {
+    //         cout << count;
+    //         j = j + 1;
+    //         count = count + 1;
+    //     }
+    //     cout << endl;
+    //     i = i + 1;
+    // }
+
+    // 
+    
+
     int n;
-    cout << "Enter the number: " << endl;
-    cin >> n;
-    int i = 1;
-    while (i <= n)
-    {
-        int j = 1;
-        char ch;
-        while (j <= i)
-        {
-            char ch = 'A' + i + 1;
-            cout << ch << " ";
-            j = j + 1;
-        }
-        cout << endl;
-        i = i + 1;
-    }
+    int i=1;
+    
 }
